@@ -9,7 +9,7 @@ Samples of Data Analysis Portfolio
 
   ![](https://github.com/zizou-io/azizou_portfolio/blob/main/images/mesce.PNG)
 
- # [Project 2 PwC-Power-BI-Project](https://github.com/zizou-io/PwC-Power-BI-Project) 
+# [Project 2 PwC-Power-BI-Project](https://github.com/zizou-io/PwC-Power-BI-Project)
  - Dashboard Creation: Developed interactive Power BI dashboards for various aspects of the business, including call centre trends, customer retention, and diversity & inclusion. These dashboards provided comprehensive views of key performance indicators (KPIs) and metrics, enabling data-driven decision-making.
  - Data Preparation and Transformation: Conducted thorough data cleaning and transformation using Power Query, ensuring data accuracy and consistency. Prepared datasets for modelling and analysis, enhancing the quality of insights generated.
  - Data Modeling and Analysis: Implemented robust data models to extract meaningful insights from complex datasets. Utilized measures and calculations (DAX) to analyze KPIs such as customer satisfaction, churn rates, and employee performance, uncovering actionable insights.
@@ -34,8 +34,9 @@ Samples of Data Analysis Portfolio
 - Presented findings through interactive visualizations, revealing insights such as user activity patterns, sleep tracking behaviour, and correlation between activity levels and calories burned, leading to actionable recommendations for product improvement and marketing strategies.
 
   ![](https://github.com/zizou-io/azizou_portfolio/blob/main/images/bellabeat.PNG)
+
   
- # [Project 5 Chase-Bank-Retention-Analysis](https://github.com/zizou-io/Chase-Bank-Retention-Analysis-Using-Power-BI) 
+  # [Project 5 Chase-Bank-Retention-Analysis](https://github.com/zizou-io/Chase-Bank-Retention-Analysis-Using-Power-BI)
  - Conducted comprehensive analysis of Fitbit data to identify trends and behaviours among Bellabeat device users, aiding in new opportunities for growth and marketing strategy improvements
  - Customer Segmentation: Utilized demographic, account information, and banking behaviour data to segment customers and identify groups with higher churn risks, enabling targeted retention efforts.
  - Retention Drivers Analysis: Conducted analysis to understand how factors such as credit score, account balance, number of products held, and customer activity influence churn rates, providing insights for formulating retention strategies.
@@ -44,7 +45,8 @@ Samples of Data Analysis Portfolio
 
   ![](https://github.com/zizou-io/azizou_portfolio/blob/main/images/chase.PNG)
 
- # [Project 6 Human-Resource-Data-Analysis-Dashboard](https://github.com/zizou-io/Human-Resource-Data-Analysis-Dashboard) 
+  
+# [Project 6 Human-Resource-Data-Analysis-Dashboard](https://github.com/zizou-io/Human-Resource-Data-Analysis-Dashboard)
  - Conducted comprehensive analysis of Fitbit data to identify trends and behaviours among Bellabeat device users, aiding in new opportunities for growth and marketing strategy improvements
  - Constructed a comprehensive Power BI dashboard using the IBM HR Analytics dataset from Kaggle, providing valuable insights into employee dynamics such as attrition rates, job satisfaction, and demographic distribution.
  - Analyzed key questions regarding attrition rates, job satisfaction, demographic distribution, departmental dynamics, and correlation between working overtime and attrition, leading to actionable recommendations for HR strategy improvement.
