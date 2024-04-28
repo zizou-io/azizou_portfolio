@@ -13,4 +13,9 @@ Samples of Data Analysis Portfolio
 - Employed statistical analysis to determine the relationship between independent variables (e.g., square footage, number of bedrooms) and the dependent variable (sale price), providing valuable insights for real estate decisions and pricing strategies.
 - Identified several significant factors impacting home sale prices in Arlington, offering valuable insights to inform real estate professionals and stakeholders in the area.
 
-# [Project 3 Statistical Analysis of Arlington Housing Price Data](https://github.com/zizou-io/Statistical-Analysis)
+# [Project 3 Marketing Analysis](https://github.com/zizou-io/Marketing-Analysis-Using-SQL-Tableau)
+- Conducted comprehensive analysis of Fitbit data to identify trends and behaviours among Bellabeat device users, aiding in new opportunities for growth and marketing strategy improvements.
+- Selected and processed six datasets from 18 available on Kaggle, ensuring data integrity and suitability for analysis, despite limitations such as a small sample size and short period.
+- Utilized MySQL database for data processing and Tableau for data visualization, transforming raw data into actionable insights for decision-making.
+- Identified and addressed data quality issues, including converting date formats and ensuring data consistency across datasets through inner join queries and data validation checks.
+- Presented findings through interactive visualizations, revealing insights such as user activity patterns, sleep tracking behaviour, and correlation between activity levels and calories burned, leading to actionable recommendations for product improvement and marketing strategies.
