@@ -28,7 +28,15 @@ Samples of Data Analysis Portfolio
 - Identified and addressed data quality issues, including converting date formats and ensuring data consistency across datasets through inner join queries and data validation checks.
 - Presented findings through interactive visualizations, revealing insights such as user activity patterns, sleep tracking behaviour, and correlation between activity levels and calories burned, leading to actionable recommendations for product improvement and marketing strategies.
 
- # [Project 5 Human-Resource-Data-Analysis-Dashboard](https://github.com/zizou-io/Human-Resource-Data-Analysis-Dashboard) 
+ # [Project 5 Chase-Bank-Retention-Analysis](https://github.com/zizou-io/Chase-Bank-Retention-Analysis-Using-Power-BI) 
+ - Conducted comprehensive analysis of Fitbit data to identify trends and behaviours among Bellabeat device users, aiding in new opportunities for growth and marketing strategy improvements
+ - Customer Segmentation: Utilized demographic, account information, and banking behaviour data to segment customers and identify groups with higher churn risks, enabling targeted retention efforts.
+ - Retention Drivers Analysis: Conducted analysis to understand how factors such as credit score, account balance, number of products held, and customer activity influence churn rates, providing insights for formulating retention strategies.
+ - Proactive Retention Strategies: Developed proactive retention strategies by identifying and targeting at-risk customers before they leave, optimizing customer retention efforts.
+ - Data-driven Decision-making: Demonstrated the ability to make data-driven decisions by leveraging insights from the analysis to improve customer experience and build stronger bank-customer relationships.
+
+
+ # [Project 6 Human-Resource-Data-Analysis-Dashboard](https://github.com/zizou-io/Human-Resource-Data-Analysis-Dashboard) 
  - Conducted comprehensive analysis of Fitbit data to identify trends and behaviours among Bellabeat device users, aiding in new opportunities for growth and marketing strategy improvements
  - Constructed a comprehensive Power BI dashboard using the IBM HR Analytics dataset from Kaggle, providing valuable insights into employee dynamics such as attrition rates, job satisfaction, and demographic distribution.
  - Analyzed key questions regarding attrition rates, job satisfaction, demographic distribution, departmental dynamics, and correlation between working overtime and attrition, leading to actionable recommendations for HR strategy improvement.
